@@ -28,5 +28,10 @@ namespace Paco.Forecast.GUI
         {
             MessageBox.Show("Let's learn Git!");
         }
+
+        private void btnAddMessage_Two()
+        {
+            var x = "Have a nice day";
+        }
     }
 }
