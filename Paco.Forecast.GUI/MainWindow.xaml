@@ -18,5 +18,6 @@
             <RowDefinition Height="*" />
         </Grid.RowDefinitions>
         <Button x:Name="btnMessage" Content="See message" Grid.Row="1" Grid.Column="1" Click="btnMessage_Click"/>
+        <Button x:Name="btnSecondWnd" Content="Move to next windows" Grid.Row="0" Grid.Column="2" Click="btnSecondWnd_Click"/>
     </Grid>
 </Window>

@@ -29,5 +29,11 @@ namespace Paco.Forecast.GUI
         {
             MessageBox.Show("Message from Marco");
         }
+
+        private void btnSecondWnd_Click(object sender, RoutedEventArgs e)
+        {
+            var x = new SecondWindow();
+            x.Show();
+        }
     }
 }
