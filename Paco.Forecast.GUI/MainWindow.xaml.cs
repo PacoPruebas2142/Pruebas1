@@ -27,7 +27,7 @@ namespace Paco.Forecast.GUI
 
         private void btnMessage_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("Message from Marco");
+
         }
 
         private void btnSecondWnd_Click(object sender, RoutedEventArgs e)
