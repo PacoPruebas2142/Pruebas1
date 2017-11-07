@@ -24,5 +24,10 @@ namespace Paco.Forecast.GUI
         {
             InitializeComponent();
         }
+
+        private void btnMessage_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("Message from Marco");
+        }
     }
 }

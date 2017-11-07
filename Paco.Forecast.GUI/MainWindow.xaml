@@ -17,6 +17,6 @@
             <RowDefinition Height="*" />
             <RowDefinition Height="*" />
         </Grid.RowDefinitions>
-        <Button x:Name="btnMessage" Content="See message" Grid.Row="1" Grid.Column="1"/>
+        <Button x:Name="btnMessage" Content="See message" Grid.Row="1" Grid.Column="1" Click="btnMessage_Click"/>
     </Grid>
 </Window>
