@@ -25,4 +25,11 @@ namespace Paco.Forecast.GUI
             InitializeComponent();
         }
     }
+
+    public partial class Test
+    {
+        public void NoEntry()
+        {
+        }
+    }
 }
