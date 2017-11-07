@@ -30,4 +30,11 @@ namespace Paco.Forecast.GUI
             return a * b;
         }
     }
+
+    public partial class Test
+    {
+        public void NoEntry()
+        {
+        }
+    }
 }
