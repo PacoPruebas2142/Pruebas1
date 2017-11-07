@@ -24,5 +24,10 @@ namespace Paco.Forecast.GUI
         {
             InitializeComponent();
         }
+
+        public double Multiply(double a, double b)
+        {
+            return a * b;
+        }
     }
 }
